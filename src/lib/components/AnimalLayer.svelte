@@ -42,7 +42,10 @@
 		{ top: 25, w: 35, left: 45, fill: '#000000', opacity: 0.5, v: 0.15, component: Jelly },
 		{ top: 55, w: 25, left: 25, fill: '#000000', opacity: 0.5, v: -1.55, component: Jelly },
 		{ top: 26, w: 10, left: 10, fill: '#000000', opacity: 0.6, v: 0.13, component: Jelly },
-		{ top: 30, w: 15, left: 85, fill: '#000000', opacity: 0.5, v: 0.14, component: Jelly }
+		{ top: 26, w: 20, left: 20, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark },
+		{ top: 36, w: 20, left: 30, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark1 },
+		{ top: 46, w: 20, left: 40, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark3 },
+		{ top: 56, w: 20, left: 50, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark3 }
 	];
 </script>
 

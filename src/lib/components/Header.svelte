@@ -33,6 +33,11 @@
 			<a href="#infos">
 				<p class="text-xs sm:text-base mx-1 sm:mx-4  hover:text-teal-500 hover:shadow">Infos</p>
 			</a>
+			<a href="#tickets">
+				<p class="text-xs sm:text-base mx-1 sm:mx-4  hover:text-teal-500 hover:shadow">
+					Billeterie
+				</p>
+			</a>
 		</div>
 	</div>
 </header>

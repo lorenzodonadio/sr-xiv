@@ -23,11 +23,11 @@
 
 <div
 	bind:clientHeight
-	class="flex-col justify-center mx-auto max-w-7xl relative z-20 opacity-90 px-2 sm:px-12"
+	class="flex-col justify-center mx-auto w-full max-w-7xl  relative z-20 opacity-90 px-2 sm:px-12"
 >
 	<section class=" pt-12 h-screen" id="hero">
 		<h2 class="font-bold text-2xl md:text-3xl lg:text-5xl my-8 text-center">
-			La 14ème édition de notre festival SATROCKS revient le 7 octobre 2022, de 19h à 3h.
+			La XIV édition de notre festival SATROCKS revient le 7 octobre 2022, de 19h à 3h.
 		</h2>
 
 		<div>
@@ -48,10 +48,14 @@
 		<Lineup />
 	</section>
 	<section class=" pt-12" id="artists">
+		<h3>Grande scène</h3>
 		<div class="flex flex-wrap gap-4 justify-center">
 			<ArtistCard title="Archair" src="artists/archair.png" text={descriptions.archair} />
 			<ArtistCard title="I-Bredda" src="artists/l_bredda.jpeg" text={descriptions.i_bredda} />
 			<ArtistCard title="Kety Fusco" src="artists/kety_fusco.jpg" text={descriptions.kety_fusco} />
+		</div>
+		<h3>scène Sat</h3>
+		<div class="flex flex-wrap gap-4 justify-center">
 			<ArtistCard title="We Are Magonia" src="artists/we_magonia.png" text={descriptions.magonia} />
 			<ArtistCard
 				title="Maissouille"
@@ -64,8 +68,14 @@
 				src="artists/nathalie_froehlich.jpg"
 				text={descriptions.nathalie}
 			/>
+		</div>
+		<h3>scène underground</h3>
+		<div class="flex flex-wrap gap-4 justify-center">
 			<ArtistCard title="Regal Trip" src="artists/regal_trip.jpg" text={descriptions.regal_trip} />
 			<ArtistCard title="Roots of Joy" src="artists/roots_joy.jpeg" text={descriptions.roots_joy} />
+		</div>
+		<h3>scène chill</h3>
+		<div class="flex flex-wrap gap-4 justify-center">
 			<ArtistCard
 				title="Wading Birds"
 				src="artists/wading_birds.jpeg"

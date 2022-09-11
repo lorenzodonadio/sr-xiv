@@ -41,7 +41,7 @@
 </script>
 
 <div
-	class="w-[90%] lg:w-[70%] min-w-[388px] aspect-video relative rounded-md shadow-lg overflow-clip"
+	class="w-[90%] lg:w-[70%] min-w-[370px] aspect-video relative rounded-md shadow-lg overflow-clip"
 >
 	{#each [carouselPhotos[index]] as src (index)}
 		<img
