@@ -14,5 +14,4 @@
 	<main class="scroll-smooth snap-y snap-proximity">
 		<slot />
 	</main>
-	<!-- <footer><p>this is the footer</p></footer> -->
 </div>
