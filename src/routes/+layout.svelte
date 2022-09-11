@@ -5,7 +5,7 @@
 	import { showHeader } from '$lib/stores/headerState';
 </script>
 
-<div class="text-white min-h-screen h-full w-full relative font-futura">
+<div class="text-white min-h-screen h-full w-full relative overflow-x-hidden">
 	<GradientBackground />
 	{#if $showHeader}
 		<Header />
