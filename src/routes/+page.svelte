@@ -100,7 +100,8 @@
 						>
 					</li>
 					<li>chez l'un des points de vente Petzi</li>
-					<li>à Satellite entre 11h et 14h ou à semaine des associations jusqu'a soldout!</li>
+					<li>à Satellite entre 11-13h et 15-17h ou à semaine des associations jusqu'a soldout!</li>
+					<li>100 places en vente le soir même</li>
 				</ul>
 			</div>
 		</div>
