@@ -1,4 +1,6 @@
 export const descriptions = {
+	afterlife:
+		"Afterlife est la réincarnation d'Almog Shmueli, 36 ans, Israël. Il est anciennement connu sous le nom d'Undercover. Un producteur de psytrance bien connu avec une réputation sur la scène mondiale. Au cours de sa carrière, avec son ancien projet, Almog s'est produit à travers le monde et a touché des millions de coeurs et d'oreilles sur les différentes plateformes médiatiques. Afterlife montre aujourd'hui un côté et une vision différents de son histoire, avec une approche différente de sa musique et un petit voyage aux racines mêmes de la musique trance paychedelic. Des rythmes serrés et une ambiance old-school composent sa musique, qui est combinée à des idées nouvelles qui peuvent élever n'importe quel auditeur à un état d'esprit supérieur.",
 	archair:
 		'Un gars, une fille, une boite à rythme et l’envie de tailler la route. C’est en juin 2019 que la sédunoise Isis Lambiel et le biennois Bastien Jeandrevin sortent leur premier single « Wrong Feels Right », qui sera diffusé sur les ondes, suivi d’un EP « Roller Coaster » qui leur ouvrira la porte à une série de concerts en Suisse romande. Résolument minimaliste mais efficace, le duo assène avec conviction un rock fiévreux et bluesy sur une base de poum-clap frénétique.',
 	i_bredda:

@@ -5,7 +5,6 @@
 			<p>Soom T</p>
 			<p>We are Magonia</p>
 			<p>Regal Trip</p>
-			<p />
 		</div>
 	</a>
 	<a href="#sceneunder">
@@ -14,7 +13,6 @@
 			<p>Afterlife</p>
 			<p>Mascarpone</p>
 			<p>Maissouille</p>
-			<p />
 		</div>
 	</a>
 	<a href="#scenesat">
@@ -23,7 +21,6 @@
 			<p>Nathalie Froehlich</p>
 			<p>Kety Fusco</p>
 			<p>Archair</p>
-			<p />
 		</div>
 	</a>
 	<a href="#scenechill">
@@ -32,7 +29,6 @@
 			<p>Wading</p>
 			<p>Roots of joy</p>
 			<p>I bredda</p>
-			<p>Toussaint</p>
 		</div>
 	</a>
 </div>
