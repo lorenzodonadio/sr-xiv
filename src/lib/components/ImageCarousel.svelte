@@ -25,16 +25,9 @@
 	};
 
 	onMount(() => {
-		for (const i in carouselPhotos) {
-			setTimeout(() => {
-				next();
-			}, 200 * (1 + parseInt(i)));
-		}
-		setTimeout(() => {
-			interval = setInterval(() => {
-				next();
-			}, 3000);
-		}, 200 * carouselPhotos.length);
+		interval = setInterval(() => {
+			next();
+		}, 2500);
 	});
 
 	onDestroy(() => clearInterval(interval));
@@ -46,7 +39,8 @@
 	{#each [carouselPhotos[index]] as src (index)}
 		<img
 			class="absolute w-full h-full object-cover"
-			transition:fade={{ duration: 100 }}
+			in:fade={{ duration: 200 }}
+			out:fade={{ duration: 400 }}
 			{src}
 			alt=""
 		/>

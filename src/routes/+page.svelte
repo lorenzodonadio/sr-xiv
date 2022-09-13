@@ -30,8 +30,8 @@
 	bind:clientHeight
 	class="flex-col justify-center mx-auto w-full max-w-7xl  relative z-20 opacity-90 px-2 sm:px-12"
 >
-	<section class=" pt-12 h-screen" id="hero">
-		<h2 class="font-bold text-2xl md:text-3xl lg:text-5xl my-8 text-center">
+	<section class="pt-12 h-screen flex flex-col justify-evenly" id="hero">
+		<h2 class="font-bold text-2xl md:text-3xl lg:text-5xl  sm:my-3 md:my-5 lg:my-7 text-center">
 			La XIV édition de notre festival SATROCKS revient le 7 octobre 2022, de 19h à 3h.
 		</h2>
 
@@ -100,8 +100,8 @@
 						>
 					</li>
 					<li>chez l'un des points de vente Petzi</li>
-					<li>à Satellite entre 11-13h et 15-17h ou à semaine des associations jusqu'a soldout!</li>
-					<li>100 places en vente le soir même</li>
+					<li>à Satellite entre 11-13h et 15-17h, à partir du 15 septembre jusqu'à soldout!</li>
+					<li>au stand Satellite à la semaine des associations</li>
 				</ul>
 			</div>
 		</div>

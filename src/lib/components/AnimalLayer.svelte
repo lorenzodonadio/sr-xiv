@@ -42,8 +42,8 @@
 		{ top: 25, w: 35, left: 45, fill: '#000000', opacity: 0.5, v: 0.15, component: Jelly },
 		{ top: 55, w: 25, left: 25, fill: '#000000', opacity: 0.5, v: -1.55, component: Jelly },
 		{ top: 26, w: 10, left: 10, fill: '#000000', opacity: 0.6, v: -1.13, component: Jelly },
-		{ top: 95, w: 12, left: 70, fill: '#000000', opacity: 0.6, v: -1.2, component: Jelly },
-		{ top: 96, w: 8, left: 30, fill: '#000000', opacity: 0.7, v: -1.17, component: Jelly },
+		{ top: 93, w: 12, left: 70, fill: '#000000', opacity: 0.6, v: -1.2, component: Jelly },
+		{ top: 92, w: 8, left: 30, fill: '#000000', opacity: 0.7, v: -1.12, component: Jelly },
 		{ top: 26, w: 20, left: 20, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark },
 		{ top: 36, w: 20, left: 30, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark1 },
 		{ top: 46, w: 20, left: 40, fill: '#000000', opacity: 0.6, v: 0.13, component: Shark3 },
@@ -55,6 +55,8 @@
 		{ top: 64, w: 12, left: 3, fill: '#000000', opacity: 0.7, v: -0.08, component: Fish },
 		{ top: 60, w: 13, left: 75, fill: '#000000', opacity: 0.6, v: -0.08, component: Fish1 },
 		{ top: 63, w: 30, left: 35, fill: '#000000', opacity: 0.3, v: -0.08, component: Seastar },
+		{ top: 83, w: 20, left: 5, fill: '#000000', opacity: 0.3, v: -0.58, component: Seastar },
+		{ top: 33, w: 15, left: 55, fill: '#000000', opacity: 0.3, v: -0.88, component: Seastar },
 		{ top: 57, w: 11, left: 85, fill: '#000000', opacity: 0.5, v: -0.08, component: Fish4 },
 
 		{ top: 70, w: 12, left: 8, fill: '#000000', opacity: 0.55, v: -0.3, component: Fish4 },
@@ -64,15 +66,16 @@
 		{ top: 70, w: 15, left: 75, fill: '#000000', opacity: 0.86, v: -0.05, component: Crab },
 		{ top: 70, w: 11, left: 86, fill: '#000000', opacity: 0.6, v: -0.13, component: Crab },
 
+		{ top: 70, w: 65, left: 20, fill: '#000000', opacity: 0.35, v: -0.2, component: Angler },
 		{ top: 80, w: 75, left: 10, fill: '#000000', opacity: 0.55, v: -0.1, component: Angler },
-		{ top: 95, w: 15, left: 20, fill: '#000000', opacity: 0.55, v: -0.12, component: Shark4 },
-		{ top: 95, w: 20, left: 40, fill: '#000000', opacity: 0.55, v: -0.12, component: Shark2 },
-		{ top: 95, w: 8, left: 3, fill: '#000000', opacity: 0.75, v: -0.05, component: Fish1flip },
-		{ top: 95, w: 25, left: 70, fill: '#000000', opacity: 0.65, v: -0.1, component: Sharkflip },
-		{ top: 95, w: 11, left: 10, fill: '#000000', opacity: 0.45, v: -0.1, component: Fish3 },
-		{ top: 95, w: 8, left: 14, fill: '#000000', opacity: 0.45, v: -0.01, component: Fish3 },
-		{ top: 95, w: 7, left: 18, fill: '#000000', opacity: 0.45, v: -0.13, component: Fish3 },
-		{ top: 95, w: 11, left: 7, fill: '#000000', opacity: 0.45, v: -0.091, component: Fish3 }
+		{ top: 92, w: 15, left: 20, fill: '#000000', opacity: 0.55, v: -0.12, component: Shark4 },
+		{ top: 92, w: 20, left: 40, fill: '#000000', opacity: 0.55, v: -0.12, component: Shark2 },
+		{ top: 92, w: 8, left: 3, fill: '#000000', opacity: 0.75, v: -0.05, component: Fish1flip },
+		{ top: 92, w: 25, left: 70, fill: '#000000', opacity: 0.65, v: -0.1, component: Sharkflip },
+		{ top: 92, w: 11, left: 10, fill: '#000000', opacity: 0.45, v: -0.1, component: Fish3 },
+		{ top: 92, w: 8, left: 14, fill: '#000000', opacity: 0.45, v: -0.01, component: Fish3 },
+		{ top: 93, w: 7, left: 18, fill: '#000000', opacity: 0.45, v: -0.13, component: Fish3 },
+		{ top: 92, w: 11, left: 7, fill: '#000000', opacity: 0.45, v: -0.091, component: Fish3 }
 	];
 </script>
 

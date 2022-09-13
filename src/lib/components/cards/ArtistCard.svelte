@@ -12,7 +12,7 @@
 	<h3 class="font-semibold text-xl my-2 text-center">{title}</h3>
 	<img class=" rounded-md w-full max-h-40 object-cover" {src} alt={title} />
 	<p on:click={() => (hideText = !hideText)} class:line-clamp-5={hideText} class="text-justify ">
-		{text}
+		{@html text}
 	</p>
 	<div class="flex justify-between mt-2">
 		<div class="">
