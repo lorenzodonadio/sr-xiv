@@ -24,10 +24,10 @@
 			Jeune public : L'entrée au festival est interdite aux personnes de moins de 16 ans
 			non-accompagnées d'un parent ou d'une personne adulte responsable.
 		</p>
-		<p>Carte Sat nécessaire si votre billet a été a prix réduit</p>
+		<p>Carte Sat nécessaire si votre billet a été acheté prix réduit</p>
 
 		<h6 class="text-lg font-semibold mt-6 mb-0.5">Pendant le festival</h6>
-		<p>Payements exclusivement en cash/camipro</p>
+		<p>Paiements exclusivement en cash/camipro</p>
 		<p>Pour manger: un grill 100% végétarien disponible</p>
 		<p>Attention : Le parking du Rolex Learning Center fermera ses portes à minuit.</p>
 

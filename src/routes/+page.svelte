@@ -102,6 +102,7 @@
 					<li>chez l'un des points de vente Petzi</li>
 					<li>à Satellite entre 11-13h et 15-17h, à partir du 15 septembre jusqu'à soldout!</li>
 					<li>au stand Satellite à la semaine des associations</li>
+					<li>des places restantes à vendre le soir même</li>
 				</ul>
 			</div>
 		</div>
