@@ -63,43 +63,37 @@
 		<h2 class="font-bold text-3xl lg:text-5xl mb-4 text-center">Billeterie</h2>
 
 		<div class="flex justify-evenly">
-			<a
-				href="https://www.petzi.ch/en/events/49951-satellite-satrocks-xiv/"
-				target="_blank"
-				class="w-40 sm:w-56"
-			>
+			<div href="/" class="w-40 sm:w-56">
 				<TranslucidCard colorTo="to-cyan-400"
 					><div class="sm:p-2 ">
 						<h5 class="text-2xl sm:text-4xl font-extrabold">15.- CHF</h5>
 						<span class="sm:text-lg">Plein tarif</span>
 					</div></TranslucidCard
 				>
-			</a>
-			<a
-				href="https://www.petzi.ch/en/events/49951-satellite-satrocks-xiv/"
-				target="_blank"
-				class="w-40 sm:w-56"
-			>
+			</div>
+			<div href="/" class="w-40 sm:w-56">
 				<TranslucidCard colorTo="to-violet-400"
 					><div class="sm:p-2">
 						<h5 class="text-2xl sm:text-4xl font-extrabold">10.- CHF</h5>
 						<span class="sm:text-lg">Avec la carte Sat</span>
 					</div></TranslucidCard
 				>
-			</a>
+			</div>
 		</div>
 		<div class="flex justify-center text-lg">
 			<div class="pt-2">
 				Vous pouvez acheter des places:
 				<ul class="list-disc ml-8">
 					<li>
-						en ligne, sur le site <a
-							class="hover:text-teal-400 font-semibold underline text-teal-200"
-							href="https://www.petzi.ch/en/events/49951-satellite-satrocks-xiv/"
-							target="_blank">Petzi</a
+						<span class="line-through"> en ligne, sur le site Petzi </span>
+						<span class="mx-2 text-red-400">Soldout</span>
+					</li>
+
+					<li>
+						<span class="line-through">chez l'un des points de vente Petzi </span><span
+							class="mx-2 text-red-400">Soldout</span
 						>
 					</li>
-					<li>chez l'un des points de vente Petzi</li>
 					<li>à Satellite entre 11-13h et 15-17h, à partir du 15 septembre jusqu'à soldout!</li>
 					<li>au stand Satellite à la semaine des associations</li>
 					<li>des places restantes à vendre le soir même</li>

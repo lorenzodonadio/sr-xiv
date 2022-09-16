@@ -24,7 +24,7 @@
 			Jeune public : L'entrée au festival est interdite aux personnes de moins de 16 ans
 			non-accompagnées d'un parent ou d'une personne adulte responsable.
 		</p>
-		<p>Carte Sat nécessaire si votre billet a été acheté prix réduit</p>
+		<p>Carte Sat nécessaire si votre billet a été acheté a prix réduit</p>
 
 		<h6 class="text-lg font-semibold mt-6 mb-0.5">Pendant le festival</h6>
 		<p>Paiements exclusivement en cash/camipro</p>
