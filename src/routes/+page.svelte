@@ -94,10 +94,38 @@
 							class="mx-2 text-red-400">Soldout</span
 						>
 					</li>
-					<li>à Satellite entre 11-13h et 15-17h, à partir du 15 septembre jusqu'à soldout!</li>
-					<li>au stand Satellite à la semaine des associations</li>
+					<li>
+						<span class="line-through">
+							à Satellite entre 11-13h et 15-17h, à partir du 15 septembre jusqu'à soldout!
+						</span>
+						<span class="mx-2 text-red-400">Soldout</span>
+					</li>
+					<li>
+						<span class="line-through"> au stand Satellite à la semaine des associations </span>
+						<span class="mx-2 text-red-400">Soldout</span>
+					</li>
 					<li>des places restantes à vendre le soir même</li>
 				</ul>
+			</div>
+		</div>
+	</section>
+	<section class=" pt-12" id="staff">
+		<h2 class="font-bold text-3xl lg:text-5xl mb-4 text-center">Devenir staff</h2>
+
+		<div class="flex justify-center">
+			<div class="flex flex-col text-justify max-w-xl">
+				<p>
+					Pour staffer lors de la soirée inscrivez-vous au moyen du formulaire suivant: <a
+						class="text-teal-200 underline hover:text-teal-400 font-medium"
+						href="https://docs.google.com/forms/d/e/1FAIpQLScKcQ2mUrFuXFMpjPuz9WL08FddZv8dscI-EyJnaNu73RU-Pw/viewform?usp=sf_link"
+						target="_blank"
+						>Devenir Staff
+					</a>
+				</p>
+				<p>
+					Attention, l'inscription au formulaire ne garantit pas un poste de staff, les premiers
+					inscrits seront les premiers servis
+				</p>
 			</div>
 		</div>
 	</section>
