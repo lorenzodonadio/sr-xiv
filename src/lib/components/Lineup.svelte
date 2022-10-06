@@ -6,7 +6,7 @@
 			<p class="border-b font-semibold border-white border-dashed border-opacity-50">Regal Trip</p>
 			<span class="text-sm -translate-y-1">22h30-23h30</span>
 			<p class="border-b font-semibold border-white border-dashed border-opacity-50">Soom T & The Stone Monks</p>
-			<span class="text-sm -translate-y-1">22h30-23h30</span>
+			<span class="text-sm -translate-y-1">1h-2h</span>
 			<p class="border-b font-semibold border-white border-dashed border-opacity-50">We are Magonia</p>
 		</div>
 	</a>
@@ -41,7 +41,7 @@
 			<p class="border-b font-semibold border-white border-dashed border-opacity-50">Wading Birds Sound System</p>
 			<span class="text-sm -translate-y-1">21h15-22h30</span>
 			<p class="border-b font-semibold border-white border-dashed border-opacity-50">Roots of joy</p>
-			<span class="text-sm -translate-y-1">23h30-00h30</span>
+			<span class="text-sm -translate-y-1">23h30-00h45</span>
 			<p class="border-b font-semibold border-white border-dashed border-opacity-50">I-Bredda</p>
 		</div>
 	</a>
